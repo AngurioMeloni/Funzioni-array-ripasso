@@ -1,0 +1,5 @@
+C:\Users\ricca\source\repos\Funzioni array ripasso\Funzioni array ripasso\obj\Debug\net6.0\Funzioni array ripasso.csproj.AssemblyReference.cache
+C:\Users\ricca\source\repos\Funzioni array ripasso\Funzioni array ripasso\obj\Debug\net6.0\Funzioni array ripasso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricca\source\repos\Funzioni array ripasso\Funzioni array ripasso\obj\Debug\net6.0\Funzioni array ripasso.AssemblyInfoInputs.cache
+C:\Users\ricca\source\repos\Funzioni array ripasso\Funzioni array ripasso\obj\Debug\net6.0\Funzioni array ripasso.AssemblyInfo.cs
+C:\Users\ricca\source\repos\Funzioni array ripasso\Funzioni array ripasso\obj\Debug\net6.0\Funzioni array ripasso.csproj.CoreCompileInputs.cache
